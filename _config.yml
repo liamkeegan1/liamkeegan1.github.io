@@ -1,6 +1,6 @@
 title: My blog
 logo: /logo.png
 description: I'm building a blog from scratch on GitHub, learning GitHub and enclosed languages on the fly.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
