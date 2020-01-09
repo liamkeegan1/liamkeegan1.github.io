@@ -1,6 +1,6 @@
-title: My blog
-logo: assets/img/logo1.png
-description: I'm building a blog from scratch on GitHub, learning GitHub and enclosed languages on the fly.
+title: A work in progress
+logo: assets/img/logo2.png
+description: Hey, I'm Liam. I'm building a blog from scratch on GitHub, learning GitHub and enclosed languages on the fly.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
