@@ -1,5 +1,5 @@
 
-<a href="https://liamkeegan1.github.io/another-page"><h1>Blog post 1</h1></a>
+<a href="https://liamkeegan1.github.io/another-page"><h2>Blog post 1</h2></a>
 
 
 
