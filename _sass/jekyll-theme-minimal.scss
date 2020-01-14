@@ -26,6 +26,8 @@ h1, h2, h3 {
 h1 {
   font-size:20px;
   text-align: center;
+  text-decoration:overline;
+  color:#ffff00;
 
 }
 
@@ -39,7 +41,6 @@ h3, h4, h5, h6 {
 
 a {
   color:#ffff00;
-  text-decoration:overline;
 }
 
 a:hover, a:focus {
