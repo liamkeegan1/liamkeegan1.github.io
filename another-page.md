@@ -67,3 +67,27 @@ out
 .
 .
 ..
+Turns out lots of full stops go horizontal
+so will continue to write lines
+woohoo
+fun
+why
+did
+i 
+choose
+github
+when 
+i could
+have
+had
+a 
+samey 
+wordpress
+site
+with 
+big
+square
+images and 
+outdated
+css
+damn
