@@ -1,5 +1,5 @@
 
 
-##I'll start writing here.
+<h1>Blog post</h1>
 
-Will this page update if I delete the standard content?
+<h2>Another blog post</h2>
